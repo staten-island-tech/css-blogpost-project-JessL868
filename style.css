@@ -27,22 +27,22 @@ h1 {
 h2 {
     font-size: 40px;
 }
-.post-img {
-    width:  100%;
+#post-img {
+    width:  50%;
     height: 50%;
     /*pink could be percentage, vw, px*/
     object-fit: cover;
     /*object fit fixes aspect ratio of image if needed */
 }
 .post {
-    height: 50px;
+    height: 450px;
     width: 450px;
     background-color: white;
-    margin: 0px;
-    padding: 25px;
+    margin: 10px auto;
+    padding: 50px;
 }
 .post-link {
-    height: 50px;
+    height: 100px;
     width: 50vw;
     background-color: white;
     margin: 0px;
