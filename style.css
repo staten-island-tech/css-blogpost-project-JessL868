@@ -22,7 +22,7 @@ li {
     color:rgb(202, 202, 245);
 }
 h1 {
-    font-size: 60px;
+    font-size: 80px;
 }
 h2 {
     font-size: 40px;
@@ -39,7 +39,7 @@ h2 {
     width: 450px;
     background-color: white;
     margin: 10px auto;
-    padding: 50px;
+    padding: 70px;
 }
 .post-link {
     height: 100px;
@@ -47,4 +47,12 @@ h2 {
     background-color: white;
     margin: 0px;
     padding: 25px;
+}
+.post2 {
+    height: 450px;
+    width: 450px;
+    background-color: white;
+    margin: 10px auto;
+    padding: 80px;
+
 }
